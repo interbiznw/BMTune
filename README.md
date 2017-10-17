@@ -49,3 +49,4 @@ You can also use the [Facebook Page][] to ask your question
 
 [HERE]: <https://github.com/bouletmarc/BMTune/archive/master.zip>
 [Link]: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F4M5JWCFBYHMC>
+[Facebook Page]: <https://www.facebook.com/BMTune-157400241519943/>
