@@ -45,7 +45,7 @@ If you need help, first please use the help guide included in BMTune
 
 If the help guide doesn't help you, use google to get a respond to your anwser
 
-If you need a specific help, you can ask at: bouletmarc@hotmail.com
+You can ask for a specific help at: bouletmarc@hotmail.com
 
 You can also use the [Facebook Page][] to ask to other tuners
 
