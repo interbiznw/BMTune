@@ -23,16 +23,6 @@ If you want the other features to be unlocked, purchase your license
 
  
 
-# Help and Question :
-
-If you need help, first please use the help guide included in BMTune
-
-If the help guide doesn't help you, you can ask at: bouletmarc@hotmail.com
-
-You can also use the [Facebook Page][] to ask your question
-
- 
-
 # How to License :
 
 -1. Buy your license on this [Link][] (license are for lifetime)
@@ -46,6 +36,16 @@ You can also use the [Facebook Page][] to ask your question
 # What if you change your computer :
 
 Resend your new registrationID
+
+
+
+# Help and Question :
+
+If you need help, first please use the help guide included in BMTune
+
+If the help guide doesn't help you, you can ask at: bouletmarc@hotmail.com
+
+You can also use the [Facebook Page][] to ask your question
 
 [HERE]: <https://github.com/bouletmarc/BMTune/archive/master.zip>
 [Link]: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F4M5JWCFBYHMC>
