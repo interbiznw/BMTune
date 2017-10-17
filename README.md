@@ -43,9 +43,11 @@ Resend your new registrationID
 
 If you need help, first please use the help guide included in BMTune
 
-If the help guide doesn't help you, you can ask at: bouletmarc@hotmail.com
+If the help guide doesn't help you, use google to get a respond to your anwser
 
-You can also use the [Facebook Page][] to ask your question
+If you need a specific help, you can ask at: bouletmarc@hotmail.com
+
+You can also use the [Facebook Page][] to ask to other tuners
 
 [HERE]: <https://github.com/bouletmarc/BMTune/archive/master.zip>
 [Link]: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F4M5JWCFBYHMC>
