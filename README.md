@@ -41,6 +41,38 @@ Resend your new registrationID
 
 
 
+# What do you unlock with the License :
+
+- Unlock the software for lifetime
+
+- Moates.net Ostrich1/Ostrich2 compatibility
+
+- Moates.net Burn1/Burn2 compatibility
+
+- Moates.net Demon1/Demon2 compatibility
+
+- Romulator compatibility
+
+- Save files as binary (.bin)
+
+- Burn unlimited amount of chips
+
+- Tune unlimited amount of cars
+
+- Wideband Reading/Display
+
+- Anologs Displays
+
+- Import/Export Tables
+
+- Import/Export Calibrations
+
+- Protect Maps (.bin and chip)
+
+- Much mores...
+
+
+
 # Help and Question :
 
 If you need help, first please use the help guide included in BMTune
