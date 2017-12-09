@@ -84,5 +84,5 @@ You can ask for a specific help at: bouletmarc@hotmail.com
 You can also use the [Facebook Page][] to ask to other tuners
 
 [HERE]: <https://github.com/bouletmarc/BMTune/archive/master.zip>
-[Link]: <https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F4M5JWCFBYHMC>
+[Link]: <http://bmdevs.fwscheckout.com/>
 [Facebook Page]: <https://www.facebook.com/BMTune-157400241519943/>
