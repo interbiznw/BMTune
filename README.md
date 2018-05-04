@@ -1,13 +1,7 @@
 # BMTune
 BMTune is the new tuning software to tune your Honda
 
-This is where the power of dreams become true! Tune your old honda with this new tuning software
-
-Realtime tune with your Moates Demon, Moates Ostrich or simply burn a unlimited amount of Chips !
-
-Tune anys honda you want, fastly and quickly with the new friendly user interface. (limited to obd1 chipped ecu's)
-
-
+Create/Edit/Customize the Programmation of your Chips and/or your RTP Emulator.
 
 WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit)
 
@@ -71,6 +65,30 @@ Resend your new registrationID
 
 - Much mores...
 
+
+# Other BMTune Features :
+
+- Disable Sensors (Knock, ELD, Baro, O2, IAB, Fan, Purge, etc)
+
+- 2Step (launch control, antilag)
+
+- MIL shift light
+
+-Vtec Options (Pressure valve, Speed/ECT Check, Vtec Error Codes)
+
+- Custom Injectors Size + Custom Map Sensor
+
+- Basemaps available for Turbo application
+
+- Ignition Cut And/Or Fuel Cut
+
+- Boost Cut
+
+- Overheat And/Or Lean Protection
+
+- Full Throttle Shift 'FTS' Options (with Antilag)
+
+- WAY MUCH MORES
 
 
 # Help and Question :
