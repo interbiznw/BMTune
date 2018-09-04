@@ -77,7 +77,7 @@ Resend your new registrationID
 
 - MIL shift light
 
--Vtec Options (Pressure valve, Speed/ECT Check, Vtec Error Codes)
+- Vtec Options (Pressure valve, Speed/ECT Check, Vtec Error Codes)
 
 - Custom Injectors Size + Custom Map Sensor
 
@@ -92,6 +92,23 @@ Resend your new registrationID
 - Full Throttle Shift 'FTS' Options (with Antilag)
 
 - WAY MUCH MORES
+
+
+# Compatible Hardwares
+
+- Moates Burn1 & Burn2
+
+- Moates Ostrich & Ostrich 2.0
+
+- Moates Demon & Demon2
+
+- Moates Hulog
+
+- RS232 ftdi to usb Cable (FT232RL)
+
+- PGMFI RTP
+
+- Romulator
 
 
 # Help and Question :
